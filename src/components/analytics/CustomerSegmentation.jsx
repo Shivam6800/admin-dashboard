@@ -1,3 +1,4 @@
+//customer segmentation page
 import { motion } from "framer-motion";
 import {
 	ResponsiveContainer,
