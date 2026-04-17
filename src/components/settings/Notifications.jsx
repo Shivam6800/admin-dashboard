@@ -1,3 +1,4 @@
+//notification page
 import { useState } from "react";
 import SettingSection from "./SettingSection";
 import { Bell } from "lucide-react";
