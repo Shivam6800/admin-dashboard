@@ -1,3 +1,4 @@
+//security page
 import { Lock } from "lucide-react";
 import SettingSection from "./SettingSection";
 import ToggleSwitch from "./ToggleSwitch";
