@@ -1,3 +1,4 @@
+//profile page
 import { User } from "lucide-react";
 import SettingSection from "./SettingSection";
 
