@@ -1,3 +1,4 @@
+//salesbycateogry component
 import { motion } from "framer-motion";
 import { PieChart, Pie, Cell, Tooltip, Legend, ResponsiveContainer } from "recharts";
 const salesByCategory = [
