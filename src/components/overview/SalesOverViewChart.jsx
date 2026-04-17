@@ -1,3 +1,4 @@
+//sales overview chart
 import { motion } from "framer-motion";
 import { LineChart,Line,XAxis,YAxis,CartesianGrid,Tooltip,ResponsiveContainer } from "recharts";
 const salesData = [
